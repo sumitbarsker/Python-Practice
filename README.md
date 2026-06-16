@@ -16,3 +16,6 @@ Check whether a number is even or odd
 
 ## Day 5
 Find the factorial of a number using a loop
+
+## Day 6
+Find the sum of first 10 natural numbers
