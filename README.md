@@ -22,3 +22,6 @@ Find the sum of first 10 natural numbers
 
 ## Day 7
 Print multiplication table of a number
+
+## Day 8
+Find the largest of three numbers using if-else
