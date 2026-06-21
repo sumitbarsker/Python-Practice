@@ -28,3 +28,6 @@ Find the largest of three numbers using if-else
 
 ## Day 9
 Reverse a string using slicing
+
+## Day 10
+Check whether a string is a palindrome or not
