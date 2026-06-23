@@ -31,3 +31,6 @@ Reverse a string using slicing
 
 ## Day 10
 Check whether a string is a palindrome or not
+
+## Day 11
+Count the number of vowels in a string
