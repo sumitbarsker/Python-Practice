@@ -34,3 +34,6 @@ Check whether a string is a palindrome or not
 
 ## Day 11
 Count the number of vowels in a string
+
+## Day 12
+Character Counter Program
