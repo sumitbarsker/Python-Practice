@@ -37,3 +37,6 @@ Count the number of vowels in a string
 
 ## Day 12
 Character Counter Program
+
+## Day 13
+Check whether a number is prime or not
