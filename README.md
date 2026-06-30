@@ -40,3 +40,6 @@ Character Counter Program
 
 ## Day 13
 Check whether a number is prime or not
+
+## Day 14
+Print the Fibonacci series using a loop
