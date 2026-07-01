@@ -43,3 +43,6 @@ Check whether a number is prime or not
 
 ## Day 14
 Print the Fibonacci series using a loop
+
+## Day 15
+Check whether a number is an Armstrong number
