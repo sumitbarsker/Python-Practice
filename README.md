@@ -46,3 +46,6 @@ Print the Fibonacci series using a loop
 
 ## Day 15
 Check whether a number is an Armstrong number
+
+## Day 16
+Swap two numbers using Python
