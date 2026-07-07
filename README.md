@@ -49,3 +49,6 @@ Check whether a number is an Armstrong number
 
 ## Day 16
 Swap two numbers using Python
+
+## Day 17
+Find the largest element in a list
