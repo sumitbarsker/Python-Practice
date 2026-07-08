@@ -52,3 +52,6 @@ Swap two numbers using Python
 
 ## Day 17
 Find the largest element in a list
+
+## Day 18
+Find the smallest element in a list
