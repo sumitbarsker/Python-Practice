@@ -55,3 +55,6 @@ Find the largest element in a list
 
 ## Day 18
 Find the smallest element in a list
+
+## Day 19
+Reverse a list using slicing
