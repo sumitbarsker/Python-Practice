@@ -61,3 +61,6 @@ Reverse a list using slicing
 
 ## Day 20
 Remove duplicate elements from a list
+
+## Day 21
+Find the second largest element in a list
