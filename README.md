@@ -64,3 +64,6 @@ Remove duplicate elements from a list
 
 ## Day 21
 Find the second largest element in a list
+
+## Day 22
+Count even and odd numbers in a list
