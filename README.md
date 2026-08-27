@@ -76,3 +76,6 @@ Find the sum of all elements in a list
 
 ## Day 25
 Find the most frequent element in a list
+
+## Day 26
+Count the frequency of each word using a dictionary
