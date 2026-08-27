@@ -85,3 +85,6 @@ Calculate total and average marks using a dictionary
 
 ## Day 28
 Create and use a function to calculate the sum of two numbers
+
+## Day 29
+Check whether a number is even or odd using a function
