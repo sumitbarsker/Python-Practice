@@ -70,3 +70,6 @@ Count even and odd numbers in a list
 
 ## Day 23
 Sort a list without using the built-in sort() function
+
+## Day 24
+Find the sum of all elements in a list
