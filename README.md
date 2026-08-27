@@ -67,3 +67,6 @@ Find the second largest element in a list
 
 ## Day 22
 Count even and odd numbers in a list
+
+## Day 23
+Sort a list without using the built-in sort() function
