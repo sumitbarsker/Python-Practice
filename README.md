@@ -79,3 +79,6 @@ Find the most frequent element in a list
 
 ## Day 26
 Count the frequency of each word using a dictionary
+
+## Day 27
+Calculate total and average marks using a dictionary
