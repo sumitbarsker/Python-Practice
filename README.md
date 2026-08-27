@@ -73,3 +73,6 @@ Sort a list without using the built-in sort() function
 
 ## Day 24
 Find the sum of all elements in a list
+
+## Day 25
+Find the most frequent element in a list
