@@ -88,3 +88,6 @@ Create and use a function to calculate the sum of two numbers
 
 ## Day 29
 Check whether a number is even or odd using a function
+
+## Day 30
+Build a mini calculator using Python functions
