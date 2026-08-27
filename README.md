@@ -82,3 +82,6 @@ Count the frequency of each word using a dictionary
 
 ## Day 27
 Calculate total and average marks using a dictionary
+
+## Day 28
+Create and use a function to calculate the sum of two numbers
