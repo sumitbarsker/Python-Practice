@@ -94,3 +94,6 @@ Build a mini calculator using Python functions
 
 ## Day 31
 Count the number of words in a sentence using split()
+
+## Day 32
+Count uppercase and lowercase letters in a string
