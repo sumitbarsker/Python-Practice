@@ -91,3 +91,6 @@ Check whether a number is even or odd using a function
 
 ## Day 30
 Build a mini calculator using Python functions
+
+## Day 31
+Count the number of words in a sentence using split()
