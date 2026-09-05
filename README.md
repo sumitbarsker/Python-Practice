@@ -103,3 +103,6 @@ Count letters, digits, and special characters in a string
 
 ## Day 34
 Reverse a string using a loop
+
+## Day 35
+Check whether a string is a palindrome
