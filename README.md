@@ -97,3 +97,6 @@ Count the number of words in a sentence using split()
 
 ## Day 32
 Count uppercase and lowercase letters in a string
+
+## Day 33
+Count letters, digits, and special characters in a string
