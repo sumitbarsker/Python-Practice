@@ -106,3 +106,6 @@ Reverse a string using a loop
 
 ## Day 35
 Check whether a string is a palindrome
+
+## Day 36
+Count vowels and consonants in a string
