@@ -109,3 +109,6 @@ Check whether a string is a palindrome
 
 ## Day 36
 Count vowels and consonants in a string
+
+## Day 37
+Find the first non-repeating character in a string
