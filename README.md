@@ -112,3 +112,6 @@ Count vowels and consonants in a string
 
 ## Day 37
 Find the first non-repeating character in a string
+
+## Day 38
+Check whether two strings are anagrams
