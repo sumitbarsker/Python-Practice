@@ -100,3 +100,6 @@ Count uppercase and lowercase letters in a string
 
 ## Day 33
 Count letters, digits, and special characters in a string
+
+## Day 34
+Reverse a string using a loop
