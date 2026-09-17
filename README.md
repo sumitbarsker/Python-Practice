@@ -118,3 +118,6 @@ Check whether two strings are anagrams
 
 ## Day 39
 Find duplicate characters in a string
+
+## Day 40
+Remove duplicate characters from a string
