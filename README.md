@@ -130,3 +130,6 @@ Find duplicate elements in a list
 
 ## Day 43
 Find common elements between two lists
+
+## Day 44
+Combine two lists and remove duplicate elements
