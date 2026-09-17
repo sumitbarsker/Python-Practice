@@ -124,3 +124,6 @@ Remove duplicate characters from a string
 
 ## Day 41
 Find the largest and second largest elements in a list
+
+## Day 42
+Find duplicate elements in a list
