@@ -127,3 +127,6 @@ Find the largest and second largest elements in a list
 
 ## Day 42
 Find duplicate elements in a list
+
+## Day 43
+Find common elements between two lists
