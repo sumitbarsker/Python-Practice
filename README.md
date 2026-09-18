@@ -133,3 +133,6 @@ Find common elements between two lists
 
 ## Day 44
 Combine two lists and remove duplicate elements
+
+## Day 45
+Rotate a list to the left by one position
