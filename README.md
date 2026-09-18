@@ -136,3 +136,6 @@ Combine two lists and remove duplicate elements
 
 ## Day 45
 Rotate a list to the left by one position
+
+## Day 46
+Find the missing number from a list of consecutive numbers
