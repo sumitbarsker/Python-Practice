@@ -139,3 +139,6 @@ Rotate a list to the left by one position
 
 ## Day 46
 Find the missing number from a list of consecutive numbers
+
+## Day 47
+Find the maximum difference between elements in a list
