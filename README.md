@@ -142,3 +142,6 @@ Find the missing number from a list of consecutive numbers
 
 ## Day 47
 Find the maximum difference between elements in a list
+
+## Day 48
+Count positive, negative, and zero values in a list
