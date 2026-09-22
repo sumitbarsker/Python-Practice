@@ -148,3 +148,6 @@ Count positive, negative, and zero values in a list
 
 ## Day 49
 Calculate the average of elements in a list
+
+## Day 50
+Build a student marks analyzer to calculate total, average, highest, and lowest marks
