@@ -154,3 +154,6 @@ Build a student marks analyzer to calculate total, average, highest, and lowest 
 
 ## Day 51
 Learn tuple creation and indexing in Python
+
+## Day 52
+Find the maximum and minimum values in a tuple
