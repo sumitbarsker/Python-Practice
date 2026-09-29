@@ -151,3 +151,6 @@ Calculate the average of elements in a list
 
 ## Day 50
 Build a student marks analyzer to calculate total, average, highest, and lowest marks
+
+## Day 51
+Learn tuple creation and indexing in Python
