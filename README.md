@@ -157,3 +157,6 @@ Learn tuple creation and indexing in Python
 
 ## Day 52
 Find the maximum and minimum values in a tuple
+
+## Day 53
+Count the frequency of an element in a tuple
