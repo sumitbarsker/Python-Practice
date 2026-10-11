@@ -160,3 +160,6 @@ Find the maximum and minimum values in a tuple
 
 ## Day 53
 Count the frequency of an element in a tuple
+
+## Day 54
+Convert a tuple into a list, modify its elements, and convert it back
